@@ -73,7 +73,7 @@ Response:
 
 🧑‍💻 Local Development Setup
 1️⃣ Clone the repo
-git clone https://github.com/your-username/Emotion-Journal-web-app.git
+git clone [https://github.com/NileshKumar2404/Emotion-Journal-web-app.git](https://github.com/NileshKumar2404/Emotion-Journal-web-app.git)
 cd Emotion-Journal-web-app
 
 2️⃣ Backend Setup
